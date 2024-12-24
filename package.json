@@ -31,6 +31,7 @@
     "format": "prettier --write ."
   },
   "dependencies": {
+    "@dao-xyz/borsh": "^5.2.3",
     "@noble/curves": "^1.7.0",
     "@noble/hashes": "^1.6.1",
     "@noble/secp256k1": "^2.1.0",

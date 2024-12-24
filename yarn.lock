@@ -7,6 +7,14 @@
   resolved "https://registry.yarnpkg.com/@bufbuild/protobuf/-/protobuf-2.2.3.tgz#9cd136f6b687e63e9b517b3a54211ece942897ee"
   integrity sha512-tFQoXHJdkEOSwj5tRIZSPNUuXK3RaR7T1nUrPgbYX1pUbvqqaaZAsfo+NXBPsz5rZMSKVFrgK1WL8Q/MSLvprg==
 
+"@dao-xyz/borsh@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@dao-xyz/borsh/-/borsh-5.2.3.tgz#6f1b0f9ce6a3072e5fd26df2c4ee9a67460c8f91"
+  integrity sha512-W4iG53Wp7V6vtQhnuOhB3I6U6C0409gDG9eWBBA0hBbM8+hNFilZ0y0ePTOs5DS/n+J8vHS9Rsyb5fHGdUu9Qg==
+  dependencies:
+    "@protobufjs/float" "^1.0.2"
+    "@protobufjs/utf8" "^1.1.0"
+
 "@esbuild/aix-ppc64@0.21.5":
   version "0.21.5"
   resolved "https://registry.yarnpkg.com/@esbuild/aix-ppc64/-/aix-ppc64-0.21.5.tgz#c7184a326533fcdf1b8ee0733e21c713b975575f"

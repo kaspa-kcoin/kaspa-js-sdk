@@ -5,7 +5,7 @@ import {
   GetKrc20TokenInfoResponse,
   KaspaKrc20Response,
   KaspaNetwork
-} from './types';
+} from './types/req-res';
 
 export class Krc20RpcClient {
   public readonly network: KaspaNetwork;
